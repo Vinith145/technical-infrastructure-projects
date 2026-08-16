@@ -1,37 +1,57 @@
-# API Testing & SQL Validation Automation Project
+# Technical Infrastructure Projects
 
-## Tools Used
-- Postman
-- Newman
-- Node.js
-- SQLite
-- Linux/Git Bash
+## Overview
 
-## Project 1 – API Testing
-- Tested JSONPlaceholder APIs
-- Validated status codes and response body
-- Automated execution using Newman
-- HTML reports generated
+A collection of hands-on technical projects covering IT infrastructure,
+system troubleshooting, monitoring, automation, database validation,
+API testing, and backup and recovery.
 
-## Project 2 – Linux Practice
-- File operations
-- Process checks
-- Logs & services
+These projects are built as practical learning and demonstration
+labs to develop troubleshooting, automation, and infrastructure
+operations skills.
 
-## Project 3 – SQL Validation
-- Created SQLite database
-- Inserted sample users
-- Node.js script fetches:
-   - API data
-   - Database data
-- Compares both and prints MATCH / MISMATCH
+## Projects
 
-## How To Run SQL Validation
-- cd sql-validation
-- npm install sqlite3
-- node validate.js
+### 1. Backup & Recovery Infrastructure Lab
 
-## Sample Output
-✅ User 1 MATCH
-⚠ User 2 MISMATCH
-⚠ User 3 MISMATCH
+Hands-on lab focused on backup and recovery concepts, restore
+procedures, RPO, RTO, retention, backup troubleshooting,
+monitoring, and infrastructure recovery.
+
+**Status:** Completed
+
+---
+
+### 2. Linux Infrastructure Troubleshooting
+
+Hands-on Linux troubleshooting exercises covering system health,
+log analysis, service management, resource monitoring, and
+basic automation.
+
+**Status:** Completed
+
+---
+
+### 3. Infrastructure Monitoring & Alerts
+
+Bash-based monitoring project for checking CPU, memory, disk
+utilization, and system health.
+
+**Status:** Completed
+
+---
+
+### 4. SQL Validation
+
+SQL-based data validation and reconciliation exercises.
+
+**Status:** Completed
+
+---
+
+### 5. API Testing
+
+API testing exercises using Postman and Newman with automated
+execution and reporting.
+
+**Status:** Completed
